@@ -1,4 +1,4 @@
-###Diagrama de Colaboración 2: Actualización de Despacho y Notificación.
+**Diagrama de Colaboración 2: Actualización de Despacho y Notificación.**
 ```mermaid
 flowchart TD
     A["1: Agricultor"]
